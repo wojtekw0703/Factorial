@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1572378261 source:c:\users\wojtek\desktop\28.11.2019\zadanie 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funkcje.h"
+	"zmienna.c"
+
+1572378052 c:\users\wojtek\desktop\28.11.2019\zadanie 3\funkcje.h
+
+1572266993 c:\users\wojtek\desktop\28.11.2019\zadanie 3\zmienna.c
+
+1572538102 source:d:\studia\podstawy programowania - laboratoria\28.11.2019\zadanie 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funkcje.h"
+	"zmienna.c"
+
+1572536697 d:\studia\podstawy programowania - laboratoria\28.11.2019\zadanie 3\funkcje.h
+
+1572266993 d:\studia\podstawy programowania - laboratoria\28.11.2019\zadanie 3\zmienna.c
+
